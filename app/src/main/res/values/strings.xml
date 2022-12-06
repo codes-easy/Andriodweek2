@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Andriodweek2</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="enter_your_value">Enter Your Value</string>
+    <string name="first_activity">First Activity!</string>
+    <string name="to_second_activity">to second activity</string>
+    <string name="enter_an_number">Enter an number</string>
+    <string name="back_to_main">Back To Main</string>
+    <string name="fourth_activity">Fourth Activity</string>
+    <string name="third_activity">Third Activity</string>
+
+
+</resources>

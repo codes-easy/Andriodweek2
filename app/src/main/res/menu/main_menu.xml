@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/tosecondactivity" android:title="Second Activity"/>
+    <item android:id="@+id/tothirdactivity" android:title="@string/third_activity"/>
+    <item android:id="@+id/ToForthActivity" android:title="@string/fourth_activity"/>
+    <item android:id="@+id/ToDonationActivity" android:title="Donation"/>
+    <item android:id="@+id/exit" android:title="Close">
+
+
+ </item>
+
+</menu>
